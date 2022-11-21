@@ -104,6 +104,10 @@ body{
         float: none;
         width: 99.9999%;
     }
+    #nav{
+        position: sticky;
+        top: 0;
+    }
     #full-header{
         display: none;
     }
